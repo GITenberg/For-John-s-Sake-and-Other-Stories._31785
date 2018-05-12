@@ -1,0 +1,29 @@
+_repo: For-John-s-Sake-and-Other-Stories._31785
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 31785-h/images/icover.jpg
+creator:
+  author:
+    agent_name: Perram, Annie Frances
+    gutenberg_agent_id: '35464'
+    url: http://www.gutenberg.org/2009/agents/35464
+description: ''
+gutenberg_issued: '2010-03-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31785'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, English'
+- !lcsh 'Temperance -- Fiction'
+- !lcc 'PR'
+tableOfContents: For John's sake -- How the foe crept in -- The committee's decision
+  -- The right hand that offended -- "Out of the way" -- Tim Maloney's pig -- The
+  mother's mistake -- The children's supper -- Roland West's mark -- How a husband
+  was lost and found -- Downward steps -- How Jarvis was saved -- Why the angels rejoiced.
+title: For John's Sake, and Other Stories.
+url: http://www.gutenberg.org/ebooks/31785
